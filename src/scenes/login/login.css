@@ -1,0 +1,45 @@
+/* Custom CSS */
+.login-container {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #a1a4ab;
+    /* background-color: #555; */
+  }
+  
+  .login-form {
+    padding: 2rem;
+    background-color: #e1e2fe;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+  }
+  
+  .login-form h2 {
+    margin-bottom: 1.5rem;
+    font-weight: bold;
+  }
+  
+  .login-form .form-control {
+    border-radius: 20px;
+  }
+  
+  .login-form button {
+    border-radius: 20px;
+  } 
+
+  .logo {
+    display: flex;
+    align-items: center;
+    font-family: Arial, sans-serif;
+    font-size: 24px;
+    color: #4cceac;
+  }
+  
+
+  
+  .text {
+    margin-left: 10px;
+    /* Add any additional styles for the text, such as font weight or color */
+  }
+  
